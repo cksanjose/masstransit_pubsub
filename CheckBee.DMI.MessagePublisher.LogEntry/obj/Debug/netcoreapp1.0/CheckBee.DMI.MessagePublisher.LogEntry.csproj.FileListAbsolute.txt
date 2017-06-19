@@ -1,0 +1,5 @@
+C:\Users\csanjose\Documents\Visual Studio 2017\Projects\CheckBee.DMI.MessagePublisher.LogEntry\CheckBee.DMI.MessagePublisher.LogEntry\bin\Debug\netcoreapp1.0\CheckBee.DMI.MessagePublisher.LogEntry.deps.json
+C:\Users\csanjose\Documents\Visual Studio 2017\Projects\CheckBee.DMI.MessagePublisher.LogEntry\CheckBee.DMI.MessagePublisher.LogEntry\bin\Debug\netcoreapp1.0\CheckBee.DMI.MessagePublisher.LogEntry.runtimeconfig.json
+C:\Users\csanjose\Documents\Visual Studio 2017\Projects\CheckBee.DMI.MessagePublisher.LogEntry\CheckBee.DMI.MessagePublisher.LogEntry\bin\Debug\netcoreapp1.0\CheckBee.DMI.MessagePublisher.LogEntry.runtimeconfig.dev.json
+C:\Users\csanjose\Documents\Visual Studio 2017\Projects\CheckBee.DMI.MessagePublisher.LogEntry\CheckBee.DMI.MessagePublisher.LogEntry\obj\Debug\netcoreapp1.0\CheckBee.DMI.MessagePublisher.LogEntry.csprojResolveAssemblyReference.cache
+C:\Users\csanjose\Documents\Visual Studio 2017\Projects\CheckBee.DMI.MessagePublisher.LogEntry\CheckBee.DMI.MessagePublisher.LogEntry\obj\Debug\netcoreapp1.0\CheckBee.DMI.MessagePublisher.LogEntry.AssemblyInfo.cs
